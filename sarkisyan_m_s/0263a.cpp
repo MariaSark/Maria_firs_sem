@@ -1,3 +1,5 @@
+#include <iostream>
+
 int main() { 
   int i = 0;
   int v = 0;
